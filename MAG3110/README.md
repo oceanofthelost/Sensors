@@ -1,4 +1,4 @@
-This is the C code I made for the freescale MAG3110 3D magnetometer. This sensor works as a I^2C slave. To interface this sensor with a system the following functions need to be defined. 
+This is the C code I made for the freescale MAG3110 3D magnetometer. This sensor works as a I<suo>2</sup>C slave. To interface this sensor with a system the following functions need to be defined. 
 
 1. unt8_t MagWriteByte(uint8_t,uint8_t)
 2. uint8_t MagWriteMultipleBytes(uint8_t,uint8_t *,uint8_t)

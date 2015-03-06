@@ -1,0 +1,1 @@
+This Repo contains all of the firmware for that I have designed. Each directory explains what is needed to get the firmware working. For most of the firmware it will be to define the platform specific commands to read and write single and mutiple bytes.
